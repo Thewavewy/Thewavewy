@@ -12,12 +12,7 @@ I've been into Machine Learning more than 2 years with the passion of Neural Net
 * 🧠  I'm learning Deep Learning and NLP
 * ⚡  I'm like a loch ness monster. THE LEGEND!!!!
 
-### Skills
 
-
-<p align="left">
-ICON ICON ICON ICON ICON ICON
-</p>
 
 
 ### Socials
