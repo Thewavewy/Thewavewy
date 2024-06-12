@@ -4,7 +4,7 @@ Hi 👋 My name is Thewavewy
 survey engineering student graduates
 --------------------------
 
-I've been into Machine Learning more than 2 years with the passion of Neural Network, Data Science and Spatial Data Science. Very please to meet you. 🙏
+I've been into Machine Learning more than 2 years with the passion of Neural Network, Data Science and Spatial Data Science. Very pleased to meet you. 🙏
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Linkedin : Piyounggul Suparsorn](http://https://www.linkedin.com/in/piyounggul-suparsorn-77130b213/)
